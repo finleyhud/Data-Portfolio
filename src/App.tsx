@@ -168,7 +168,7 @@ export default function App() {
                 <img 
                   src="https://finhudsonphoto.wordpress.com/wp-content/uploads/2026/03/27407.jpg" 
                   alt="Finley Hudson" 
-                  className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
+                  className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
                 />
               </div>
