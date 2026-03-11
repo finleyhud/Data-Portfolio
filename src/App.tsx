@@ -166,7 +166,7 @@ export default function App() {
             >
               <div className="aspect-[3/4] rounded-[2rem] overflow-hidden bg-stone-200 shadow-2xl">
                 <img 
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=600" 
+                  src="https://finhudsonphoto.wordpress.com/wp-content/uploads/2026/03/27407.jpg" 
                   alt="Finley Hudson" 
                   className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                   referrerPolicy="no-referrer"
