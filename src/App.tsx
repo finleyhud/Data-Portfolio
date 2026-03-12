@@ -116,7 +116,7 @@ const PROJECTS: Project[] = [
   },
   {
     id: '9',
-    title: 'Tableau Analysis – San Mateo Airbnb Pricing',
+    title: 'Tableau Analysis of San Mateo Airbnb Pricing',
     category: 'Tableau',
     description: 'Developed an interactive Tableau dashboard analyzing Airbnb pricing patterns across San Mateo County using geospatial visualization and parameter-driven controls.',
     learningPoints: [
